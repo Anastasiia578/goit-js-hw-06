@@ -1,0 +1,13 @@
+p {
+    display: flex;
+    justify-content: center;
+    font-size: 60px;
+}
+button{
+    margin-left:  890px;
+    font-size: 40px;
+    border: none;
+    border-radius: 50%;
+    padding: 82px 3px;
+    cursor: pointer;
+}
